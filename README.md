@@ -3,7 +3,7 @@
 <p>
 I have created Swagger-UI
 
-![swagger image]("./swagger.png")
+![swagger image](https://github.com/parmeshwar4321/SWAGGER-UI/blob/main/swagger.png)
 </p>
 
 ---
