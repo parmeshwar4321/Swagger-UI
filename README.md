@@ -2,7 +2,8 @@
 **Project Description**
 <p>
 I have created Swagger-UI
-![alt text](swagger.png)
+
+![swagger image]("./swagger.png")
 </p>
 
 ---
