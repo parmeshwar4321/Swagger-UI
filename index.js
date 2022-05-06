@@ -12,4 +12,4 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/api',require('./routes/router'))
 
 
-app.listen(port, () => console.log('server started'))
+app.listen(port, () => console.log(`Server Running on port ${port}`))
